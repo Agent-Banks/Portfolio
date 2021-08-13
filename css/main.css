@@ -1012,7 +1012,7 @@ blockquote {
   width: 100%;
   margin-top: 5px;
   height: 2px;
-  background-color: #666;
+  background-color: #dc3545;
   opacity: 1;
 }
 
@@ -1039,7 +1039,7 @@ h3.comment-reply-title:after {
   width: 100%;
   height: 2px;
   margin-top: -1px;
-  background-color: #0099e5;
+  background-color: #dc3545;
 }
 
 /* ============================================================================= 
@@ -1274,8 +1274,8 @@ h3.comment-reply-title:after {
   height: 11px;
   margin-left: -5px;
   border-radius: 5px;
-  border: 2px solid #0099e5;
-  background-color: #222;
+  border: 2px solid #dc3545;
+  background-color: rgb(0, 0, 0);
 }
 
 .timeline-second-style .right-part {
@@ -3283,6 +3283,11 @@ blockquote p {
   overflow: hidden;
 }
 
+.about-me-title{
+
+  margin-bottom: 0;
+}
+
 .start-page .section-inner {
   background-color: transparent;
   background-image: url(../images/Halo.png);
@@ -3344,7 +3349,7 @@ blockquote p {
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #0099e5;
+  color: #dc3545;
 }
 
 .lmpixels-scroll-to-top {
@@ -3405,7 +3410,7 @@ blockquote p {
   display: block;
   width: 100%;
   height: 2px;
-  background-color: #0099e5;
+  background-color: #dc3545;
 }
 
 @media only screen and (max-width: 991px) {

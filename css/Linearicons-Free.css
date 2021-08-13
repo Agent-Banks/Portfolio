@@ -17,7 +17,7 @@
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
-	line-height: 1;
+	line-height: 1;	
 
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
@@ -125,6 +125,7 @@
 }
 .lnr-graduation-hat:before {
 	content: "\e821";
+	color: #dc3545;	
 }
 .lnr-license:before {
 	content: "\e822";
@@ -197,6 +198,7 @@
 }
 .lnr-screen:before {
 	content: "\e839";
+	color: #dc3545;	
 }
 .lnr-smartphone:before {
 	content: "\e83a";
@@ -209,6 +211,7 @@
 }
 .lnr-laptop-phone:before {
 	content: "\e83d";
+	color: #dc3545;	
 }
 .lnr-power-switch:before {
 	content: "\e83e";
@@ -242,6 +245,7 @@
 }
 .lnr-coffee-cup:before {
 	content: "\e848";
+	color: #dc3545;	
 }
 .lnr-leaf:before {
 	content: "\e849";
@@ -254,6 +258,7 @@
 }
 .lnr-briefcase:before {
 	content: "\e84c";
+	color: #dc3545;	
 }
 .lnr-bus:before {
 	content: "\e84d";
@@ -278,6 +283,7 @@
 }
 .lnr-smile:before {
 	content: "\e854";
+	color: #dc3545;	
 }
 .lnr-sad:before {
 	content: "\e855";
@@ -326,6 +332,7 @@
 }
 .lnr-clock:before {
 	content: "\e864";
+	color: #dc3545;	
 }
 .lnr-download:before {
 	content: "\e865";
@@ -407,6 +414,7 @@
 }
 .lnr-checkmark-circle:before {
 	content: "\e87f";
+	color: #dc3545;	
 }
 .lnr-cross-circle:before {
 	content: "\e880";
