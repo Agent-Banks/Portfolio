@@ -938,7 +938,8 @@ blockquote {
 }
 
 .header .social-links a:hover {
-  background-color: #0099e5;
+  background-color: #000000;
+  border: 1px solid #dc3545;
 }
 
 .header .social-links a i {
@@ -1812,6 +1813,7 @@ h3.comment-reply-title:after {
 
 .lm-info-block:hover {
   background: #000000;
+  border: 1px solid #dc3545;
 }
 
 .lm-info-block i {
