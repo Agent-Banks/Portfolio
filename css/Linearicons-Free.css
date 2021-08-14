@@ -378,6 +378,7 @@
 }
 .lnr-chevron-up:before {
 	content: "\e873";
+	color: #dc3545;
 }
 .lnr-chevron-down:before {
 	content: "\e874";
