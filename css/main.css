@@ -563,7 +563,7 @@ blockquote {
   width: 52px;
   height: 52px;
   margin: 100px auto;
-  background-color: #0099e5;
+  background-color: #dc3545;
 
   border-radius: 100%;
   -webkit-animation: sk-scaleout 1s infinite ease-in-out;
@@ -1811,10 +1811,56 @@ h3.comment-reply-title:after {
   transition: all 0.2s ease-in-out;
 }
 
-.lm-info-block:hover {
+/* Start: Contact Page CSS */
+
+.contact-lm-info-block {
+  position: relative;
+  text-align: center;
+  width: 100%;
+  display: block;
+  margin: 0;
+  background: #333;
+  padding: 20px 10px 15px;
+  border: 1px solid #444;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  overflow: hidden;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.contact-lm-info-block i {
+  position: relative;
+  font-size: 40px;
+  color: #dc3545;
+}
+
+.contact-lm-info-block:hover {
   background: #000000;
   border: 1px solid #dc3545;
 }
+
+.contact-col-xs-12 {
+  position: relative;
+    width: 50%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.contact-row {
+  display: flex;  
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+/* End: Contact Page CSS */
 
 .lm-info-block i {
   position: relative;
